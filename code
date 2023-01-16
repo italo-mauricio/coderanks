@@ -1,0 +1,4 @@
+import CodersrankTimeline from '@codersrank/timeline';
+
+// register web component as <codersrank-timeline> element
+window.customElements.define('codersrank-timeline', CodersrankTimeline);
